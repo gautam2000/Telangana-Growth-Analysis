@@ -9,13 +9,13 @@ This report analyzes the growth of vehicle sales based on the methods of stamp r
 1)document registration :-
 2)Estamps challan registration:-
 estamp challan registration started at year 2020 and this analysis gives us the effects on sales in different districts.
-You can find the report here :- https://github.com/RavinaKarnik/Telangana-Growth-analysis/blob/main/resume%20challenge%20(1).pdf
+You can find the report here :-(https://github.com/gautam2000/Telangana-Growth-Analysis/blob/main/dashboard%20pdf.pdf)
 
 ##   Transportation  :-
-this report gives us the information regarding vehicle sales depends on fuel type category, Vehicle class.You can find the report here :-https://github.com/RavinaKarnik/Telangana-Growth-analysis/blob/main/resume%20challenge%20(1).pdf
+this report gives us the information regarding vehicle sales depends on fuel type category, Vehicle class.You can find the report here :-https://github.com/gautam2000/Telangana-Growth-Analysis/blob/main/dashboard%20pdf.pdf
 
 ## Ts-iPass :- 
-this report gives us the information of investment of different business sectors in different districts.you can find the report here:- https://github.com/RavinaKarnik/Telangana-Growth-analysis/blob/main/resume%20challenge%20(1).pdf
+this report gives us the information of investment of different business sectors in different districts.you can find the report here:- https://github.com/gautam2000/Telangana-Growth-Analysis/blob/main/dashboard%20pdf.pdf
 
 ## Usage :- 
 1. Clone the repository
