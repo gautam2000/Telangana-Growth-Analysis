@@ -18,7 +18,7 @@ this report gives us the information regarding vehicle sales depends on fuel typ
 this report gives us the information of investment of different business sectors in different districts.you can find the report here:- https://github.com/RavinaKarnik/Telangana-Growth-analysis/blob/main/resume%20challenge%20(1).pdf
 
 ## Usage :- 
-1. Clone the repository: Git clone :- https://github.com/RavinaKarnik/Telangana-Growth-analysis.git
+1. Clone the repository
 2. Open the Excel files in Microsoft Excel or any compatible spreadsheet software.
 3. Navigate to the respective reports to access the analysis and insights.
 4. Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
